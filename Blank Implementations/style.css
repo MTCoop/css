@@ -1,0 +1,47 @@
+body {
+    background-color: whitesmoke;
+    font-size: 20px;
+}
+
+h2 {
+    color:blue
+}
+
+#box{
+    border:10px solid black
+}
+
+#right {
+    text-align:right
+}
+
+.button {
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    padding: 5px;
+}
+
+#introduction2 {
+    color: red;
+    text-align: center;
+}
+
+#introduction3 {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+.container {
+    margin-left: 500px;
+    width: 600px;
+    border: 3px solid black;
+    font-size: 30px;
+    
+}
+
+p {
+    font-size: 2em;
+    color: black;
+}

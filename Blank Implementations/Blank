@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Blank Implementations/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap" rel="stylesheet">
+    <title>Implement what you learn</title>
+</head>
+<body>
+    <h1>This is my style website</h1>
+    <h2  id="Introduction1">This is my name in blue</h2>
+    <div id="box">This is a box with my address in</div>
+    <p id="right">This is now towards the right of the frame</p>
+    <div class="button">This is a button</div>
+    <div class="button">This is a second button</div>
+    <div class="button">This button is another button</div>
+    <h2 id="introduction2">This is my name in a different color and central</h2>
+    <h2 id="introduction3">This is fancier wording for my wife</h2>
+    <div class="container">
+        <p>This is box has a font size of 2em as it uses the container element or parent with a font size.</p>
+    </div>
+</body>
+</html>
